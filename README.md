@@ -27,11 +27,8 @@ Repository| Description
 "BD Lab" (https://github.com/hema8217-s/bdlab)| Backend development practice
 "PythonAnywhere" (https://github.com/hema8217-s/pythonanywhere)| Python practice
 
-📊 GitHub Statistics
 
-<div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=hema8217-s&show_icons=true&theme=radical&bg_color=1c0b2e&title_color=ffd3e6&icon_color=ff8cc6&text_color=ffffff&hide_border=true" /><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema8217-s&layout=compact&theme=radical&bg_color=1c0b2e&title_color=ffd3e6&text_color=ffffff&hide_border=true" /></div>🔥 Contribution Activity
-
-<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hema8217-s&bg_color=1c0b2e&color=ffd3e6&line=ff8cc6&point=ffffff&area=true&hide_border=true" /></div>🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center"><a href="https://www.linkedin.com/in/hema-s-594b38328">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-8e4585?style=for-the-badge&logo=linkedin&logoColor=white"/>
