@@ -1,4 +1,4 @@
-<!-- ANIMATED HEADER --><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0b2e,50:8e4585,100:ffd3e6&height=200&section=header&text=HEMA%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ASPIRING%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=17"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD3E6&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+to+my+GitHub!;BCA+Student+%7C+Developer+in+Progress;Building+Creative+Web+Experiences;Learning+%E2%86%92+Building+%E2%86%92+Growing" /></div>---
+
 
 <h2><strong>🟣 👩‍💻 ABOUT ME</strong></h2>- 🎓 BCA Student
 - 💻 Aspiring Full Stack Developer
