@@ -15,7 +15,7 @@
 - Backend Development with Flask |
 - REST API Development |
 - Database Management |
-- AI-powered Applications
+- AI-powered Applications |
 
 ---
 
