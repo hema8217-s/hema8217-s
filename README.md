@@ -12,9 +12,9 @@
 <h2><strong> ⚡ SKILLS & TECHNOLOGIES</strong></h2><div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,flask,react,nodejs,express,mysql,sqlite,git,github,vscode&theme=dark" /></div>---
 
 <h2><strong> 🚀 CURRENTLY LEARNING</strong></h2>- Full Stack Web Development
-- Backend Development with Flask|
-- REST API Development|
-- Database Management|
+- Backend Development with Flask |
+- REST API Development |
+- Database Management |
 - AI-powered Applications
 
 ---
