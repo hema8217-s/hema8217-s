@@ -19,11 +19,11 @@
 
 ---
 
-<h2><strong> 📂 MY PROJECTS</strong></h2>Repository| Description
-"Hema Portfolio" (https://github.com/hema8217-s/hema_portfolio)| Personal portfolio
-"FD Lab Programs" (https://github.com/hema8217-s/fd-lab-programs)| Frontend lab programs
-"BD Lab" (https://github.com/hema8217-s/bdlab)| Backend development practice
-"PythonAnywhere" (https://github.com/hema8217-s/pythonanywhere)| Python practice
+<h2><strong> 📂 MY PROJECTS</strong></h2>Repository | Description
+"Hema Portfolio" (https://github.com/hema8217-s/hema_portfolio) | Personal portfolio
+"FD Lab Programs" (https://github.com/hema8217-s/fd-lab-programs) | Frontend lab programs
+"BD Lab" (https://github.com/hema8217-s/bdlab) | Backend development practice
+"PythonAnywhere" (https://github.com/hema8217-s/pythonanywhere) | Python practice
 
 ---
 
