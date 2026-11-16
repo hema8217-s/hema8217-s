@@ -19,13 +19,6 @@
 
 ---
 
-<h2><strong> 📂 MY PROJECTS</strong></h2>Repository | Description
-"Hema Portfolio" (https://github.com/hema8217-s/hema_portfolio) | Personal portfolio
-"FD Lab Programs" (https://github.com/hema8217-s/fd-lab-programs) | Frontend lab programs
-"BD Lab" (https://github.com/hema8217-s/bdlab) | Backend development practice
-"PythonAnywhere" (https://github.com/hema8217-s/pythonanywhere) | Python practice
-
----
 
 <h2><strong>🤝 CONNECT WITH ME</strong></h2><div align="center"><a href="https://www.linkedin.com/in/hema-s-594b38328">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-8e4585?style=for-the-badge&logo=linkedin&logoColor=white"/>
